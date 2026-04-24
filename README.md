@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Evandro de Melo Oliveira</h1>
+<h1 align="center">Oi 👋, Eu sou Evandro de Melo</h1>
 <h3 align="center">Desenvolvedor Web</h3>
 
 - 🔭 Atualmente estou trabalhando em [API para o aplicativo "Around the U.S."](https://github.com/Evandro-developer/around-express_ptbr)
