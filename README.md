@@ -1,19 +1,25 @@
-<h1 align="center">Oi 👋, Eu sou Evandro de Melo</h1>
-<h3 align="center">Desenvolvedor Web</h3>
+## Evandro de Melo
 
-- 🔭 Atualmente estou trabalhando em [API para o aplicativo "Around the U.S."](https://github.com/Evandro-developer/around-express_ptbr)
+**Cientista de Dados · Marketing Science & Marketing Analytics** · Brasília, DF
 
-- 🌱 Estou aprendendo atualmente **Análise de Dados e Desenvolvimento Web Back End**
+Transformo dados em decisão: medir o que de fato gera resultado, com estatística aplicada, dados públicos e painéis que qualquer gestor entende. Hoje na [Scale Web Media](https://scalewebmedia.com), com projetos de inteligência territorial e eleitoral, analytics de marketing e produtos de dados para empresas.
 
-- 💬 Pergunte-me sobre **React, Node.js**
+### Em destaque
 
-- 📫 Como me contatar **evandrodmoe@gmail.com**
+- **[Apuração ao vivo · DF 2026](https://github.com/Evandro-developer/apuracao-ao-vivo-df-2026)** — painel público que leu os arquivos do TSE a cada 30 segundos e calculou as cadeiras "se terminasse agora". No ar: [apuracao.scalewebmedia.com](https://apuracao.scalewebmedia.com/)
+- **[Incrementalidade na prática](https://github.com/Evandro-developer/incrementalidade-na-pratica)** — atribuição vs. incrementalidade com dados sintéticos: grupo de controle, viés de seleção e teste geográfico (diferença em diferenças), em Python.
+- **[PesquiseNews](https://github.com/Evandro-developer/projeto-pesquisenews-frontend)** — aplicação full-stack para buscar e salvar notícias em tempo real: React no [frontend](https://github.com/Evandro-developer/projeto-pesquisenews-frontend), Node.js, Express e MongoDB no [backend](https://github.com/Evandro-developer/projeto-pesquisenews-backend).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/evandrodemelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evandrodemelo" height="30" width="40" /></a>
-</p>
+### O que faço
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- **Mensuração e incrementalidade** — testes com grupo de controle e testes geográficos, separando o que a ação causou do que já ia acontecer.
+- **Análise territorial com dados públicos** — dados oficiais do TSE e de outras fontes públicas, do microdado ao mapa.
+- **Painéis e produtos de dados** — da extração à interface, com números conferidos.
 
+### Ferramentas
+
+Python (pandas, NumPy, matplotlib) · SQL · estatística aplicada · JavaScript, React, Node.js · Git
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/evandrodemelo/) · evandrodmoe@gmail.com
